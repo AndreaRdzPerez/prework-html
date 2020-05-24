@@ -58,8 +58,8 @@ ul {
 }
 
 ul li:before {
-		 content: "\2023 \0020";
-     color: #ffb6c1
+	content: "\2023 \0020";
+     	color: #ffb6c1
 	     }
 
 div {
@@ -84,7 +84,7 @@ div {
   border-radius: 5px;
   width: 100%;
   margin:1px;
-  background-image: url('images/background_title.png');
+  background-image: url('background_title.png');
   background-size: 900px;
 }
 
